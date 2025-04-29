@@ -1,0 +1,14 @@
+INDEX VERSION 1.134+C:\Users\zyra\OneDrive\SOURCE CODE\.metadata\.plugins\org.eclipse.jdt.core
+1591657881.index
+3981807143.index
+1865797976.index
+3864382078.index
+273572740.index
+157104447.index
+2771415482.index
+1331413267.index
+1128130015.index
+3525565309.index
+366343408.index
+471733220.index
+322008234.index
